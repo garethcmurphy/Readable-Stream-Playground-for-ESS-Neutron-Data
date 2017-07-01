@@ -1,0 +1,12 @@
+{
+  "name": "stream-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readable_stream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
