@@ -72,7 +72,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Gareth Murphy** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Gareth Murphy** - *Initial work* - [garethcmurphy](https://github.com/garethcmurphy)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
