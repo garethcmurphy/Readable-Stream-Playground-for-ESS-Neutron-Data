@@ -1,6 +1,4 @@
-# stream-js
-
-# Project Title
+# Stream-js
 
 One Paragraph of project description goes here
 
