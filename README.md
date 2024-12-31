@@ -1,87 +1,86 @@
-# Stream-js
+# Readable Stream Playground for ESS Neutron Data 🚀💾  
 
-One Paragraph of project description goes here
+This repository serves as a sandbox for testing **Readable Streams** in JavaScript. It focuses on handling data from the **ESS Neutron Data Source**, specifically for use in the **DMSC (Data Management and Software Center)** at the **European Spallation Source (ESS)**.
 
-## Getting Started
+---
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Features ✨  
 
-### Prerequisites
+- **Readable Stream Testing**: Experiment with JavaScript streams for handling large datasets.  
+- **ESS Neutron Data Integration**: Simulate and process neutron data from ESS.  
+- **Customizable Stream Handling**: Modify and test stream behaviors for various data scenarios.  
 
-What things you need to install the software and how to install them
+---
 
-```
-Give examples
-```
+## Prerequisites 🛠️  
 
-### Installing
+- **Node.js** (14+ recommended).  
 
-A step by step series of examples that tell you have to get a development env running
+---
 
-Say what the step will be
+## Installation  
 
-```
-Give the example
-```
+1. Clone the repository:  
+git clone https://github.com/your-username/readable-stream-playground.git  
+cd readable-stream-playground  
 
-And repeat
+2. Install dependencies:  
+npm install  
 
-```
-until finished
-```
+---
 
-End with an example of getting some data out of the system or using it for a little demo
+## Usage 🔧  
 
-## Running the tests
+1. **Run the Playground**:  
+   Start the script to test readable streams:  
+   node stream_test.js  
 
-Explain how to run the automated tests for this system
+2. **Simulate ESS Data**:  
+   Modify `ess_data_simulator.js` to generate custom neutron data streams for testing.  
 
-### Break down into end to end tests
+3. **Customize Stream Handling**:  
+   Edit `stream_test.js` to experiment with different stream operations such as filtering, transforming, or aggregating data.  
 
-Explain what these tests test and why
+---
 
-```
-Give an example
-```
+## File Structure 📂  
 
-### And coding style tests
+- `stream_test.js`: Main script for testing readable streams.  
+- `ess_data_simulator.js`: Simulates neutron data for testing purposes.  
+- `README.md`: Documentation for the repository.  
 
-Explain what these tests test and why
+---
 
-```
-Give an example
-```
+## Example Commands  
 
-## Deployment
+- Start the Stream Test:  
+  node stream_test.js  
 
-Add additional notes about how to deploy this on a live system
+- Simulate Neutron Data:  
+  node ess_data_simulator.js  
 
-## Built With
+---
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+## Contributing 🤝  
 
-## Contributing
+1. Fork the repository.  
+2. Create a new branch:  
+git checkout -b feature/your-feature  
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+3. Commit your changes:  
+git commit -m "Add your feature"  
 
-## Versioning
+4. Push the branch:  
+git push origin feature/your-feature  
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+5. Open a pull request.  
 
-## Authors
+---
 
-* **Gareth Murphy** - *Initial work* - [garethcmurphy](https://github.com/garethcmurphy)
+## License 📝  
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+This project is licensed under the MIT License. See the LICENSE file for details.  
 
-## License
+---
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+**Experiment with Readable Streams for ESS neutron data efficiently!** 🚀💾  
